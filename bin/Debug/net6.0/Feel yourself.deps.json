@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Feel yourself/1.0.0": {
+        "runtime": {
+          "Feel yourself.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feel yourself/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
